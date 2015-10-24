@@ -1,0 +1,30 @@
+body {
+	background: url(rain.jpg);
+	margin: 0;
+	font-family: Calibri;
+}
+
+.container {
+	width: 900px;
+	display: block;
+	margin: 0 auto;
+}
+
+div#page {
+	margin-top: 40px;
+	background-color: rgb(200,250,100);
+	display: table;
+	box-shadow: 2px 2px 10px #000;
+	border: solid 5px #fff;
+}
+
+h1, h2, h3 { color: #4F1776;}
+
+div#output {
+	margin-top: 20px;
+	background-color: pink;
+	display: table;
+	box-shadow: 2px 2px 10px #000;
+	border: solid 5px #fff;
+	
+}
